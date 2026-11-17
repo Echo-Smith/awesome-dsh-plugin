@@ -1,0 +1,6 @@
+url: https://github.com/Echo-Smith/dsh-session-spawn
+name: Echo-Smith/dsh-session-spawn
+category: session
+description:
+  en: 'Peer sessions: open another conversation in the same project, dispatch work to it, and read its progress and approval state.'
+  zh: '同级会话：在同一项目里开启另一个对话、向它派活并读取进度与审批状态。'
